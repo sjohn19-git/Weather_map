@@ -62,7 +62,7 @@ This code will only work in the Antelope installed systems connected to the AEC 
 
 ## Example
 
-python ./weather_map.py "(2024,23,00)" "(2024,23,01)"
+python ./weather_map.py "(2024,10,23,00)" "(2024,10,23,01)"
 
 ```
 > 100%|██████████| 69/69 [07:01<00:00,  6.11s/it]
